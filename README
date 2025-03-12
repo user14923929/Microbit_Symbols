@@ -19,4 +19,4 @@ This library provides a collection of custom symbols for use with the LiquidCrys
 
 ## Usage
 
-To use these symbols in your project, include the `main.h` file in your Arduino sketch and create an instance of the `Microbit_symbols` class. You can then use the byte arrays to create custom characters on your LCD display.
+To use these symbols in your project, include the `Microbit_symbols.h` file in your Arduino sketch and create an instance of the `Microbit_symbols` class. You can then use the byte arrays to create custom characters on your LCD display.
