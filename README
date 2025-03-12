@@ -1,0 +1,22 @@
+# Microbit Symbols for LiquidCrystal_I2C
+
+This library provides a collection of custom symbols for use with the LiquidCrystal_I2C library on the Micro:bit.
+
+## Symbols Included
+
+- Heart
+- Heart_small
+- Yes
+- No
+- Smile
+- Sad
+- Arrow_up
+- Arrow_down
+- Arrow_left
+- Arrow_right
+- Clock
+- Clock_small
+
+## Usage
+
+To use these symbols in your project, include the `main.h` file in your Arduino sketch and create an instance of the `Microbit_symbols` class. You can then use the byte arrays to create custom characters on your LCD display.
